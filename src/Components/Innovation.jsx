@@ -1,5 +1,5 @@
-import React from 'react'
-import bulb from '../Assets/bulb.png';
+import React from 'react';
+import bulb from '../assets/bulb.png';
 
 const Innovation = () => {
   return (
@@ -20,4 +20,4 @@ const Innovation = () => {
   )
 }
 
-export default Innovation
+export default Innovation;

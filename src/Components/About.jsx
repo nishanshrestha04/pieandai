@@ -1,5 +1,5 @@
-import React from 'react'
-import brain from '../Assets/brain.png';
+import React from 'react';
+import brain from '../assets/brain.png';
 
 const About = () => {
 return (
@@ -19,4 +19,4 @@ return (
 )
 }
 
-export default About
+export default About;

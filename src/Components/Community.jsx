@@ -1,5 +1,5 @@
 import React from "react";
-import social from "../Assets/social.png";
+import social from "../assets/social.png";
 
 const Community = () => {
     return (
@@ -25,4 +25,3 @@ const Community = () => {
 };
 
 export default Community;
-
